@@ -1,1 +1,1 @@
-A website with Quiz app.
+A website with Sticky Notes.
